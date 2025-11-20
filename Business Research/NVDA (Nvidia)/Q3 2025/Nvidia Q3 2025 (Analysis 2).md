@@ -1,4 +1,4 @@
-# **Equity Research: Nvidia Corporation (NVDA) \- Q3 2025 (Gemini 3\)**
+# **Equity Research: Nvidia Corporation (NVDA) \- Q3 2025 **
 
 ## **The AI Infrastructure Supercycle: From Component Supplier to Sovereign Platform**
 
