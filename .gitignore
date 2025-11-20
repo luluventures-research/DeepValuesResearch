@@ -1,1 +1,18 @@
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# Directories that might appear on external disk
+.DocumentRevisions-V100
+.TemporaryItems
+.apdisk
