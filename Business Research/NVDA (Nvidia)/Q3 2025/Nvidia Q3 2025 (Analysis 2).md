@@ -1,4 +1,4 @@
-# **Equity Research: Nvidia Corporation (NVDA) \- Q3 2025 **
+# Equity Research: Nvidia Corporation (NVDA) \- Q3 2025
 
 ## **The AI Infrastructure Supercycle: From Component Supplier to Sovereign Platform**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## **1\. Executive Summary: The Industrial Revolution of Intelligence**
+## 1\. Executive Summary: The Industrial Revolution of Intelligence
 
 Nvidia Corporation (NVDA) stands at the epicenter of a technological transformation that rivals the industrial revolution in scale and economic impact. The company’s Third Quarter Fiscal Year 2026 results, delivered in November 2025, serve not merely as a financial update but as a macroeconomic indicator for the health of the global artificial intelligence economy. Reporting record revenue of **$57.0 billion**, a staggering **62% year-over-year increase**, and **22% sequential growth** 1, Nvidia has demonstrated that the demand for accelerated computing is accelerating rather than plateauing. This performance defies the gravitational pull of the "law of large numbers" and effectively rebuts the "AI Bubble" thesis that has permeated market discourse throughout late 2025\.  
 The central thesis of this report is that Nvidia has successfully transitioned from a hardware component vendor to a full-stack data center platform provider. This transition effectively insulates the company from the commoditization risks that typically plague semiconductor manufacturers. The arrival of the **Blackwell** architecture marks the beginning of a new product supercycle, characterized not just by faster chips, but by "rack-scale" system integration that fundamentally changes how data centers are architected. With Data Center revenue reaching **$51.2 billion**—comprising nearly 90% of total sales—Nvidia is no longer a gaming company with an AI side business; it is the sovereign foundry of the AI age.1  
