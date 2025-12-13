@@ -2,6 +2,25 @@
 
 An open-source collection of contrarian deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-blue)
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+  - [Business Research](#business-research)
+  - [Market Research](#market-research)
+  - [Value Investing Principles](#value-investing-principles)
+  - [Warren Buffett Archive](#warren-buffett-archive)
+- [Key Features](#key-features)
+- [Recent Highlights](#recent-highlights)
+- [Analysis Methodology](#analysis-methodology)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Overview
 
 This repository serves as a comprehensive resource for investors interested in deep value investing, fundamental analysis, and contrarian thinking. It combines rigorous financial analysis of public companies with broader market research and classic investment wisdom.
@@ -15,15 +34,25 @@ This repository serves as a comprehensive resource for investors interested in d
 In-depth financial analysis and fundamental research on individual companies:
 
 - **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/Q3%202025/)** - Comprehensive Q3 2025 earnings analysis with 33+ financial metrics, charts, and deep-dive reports
+  - Revenue: $35.1B (+94% YoY), dominant position in AI infrastructure
+  - Multiple analysis reports covering business model, moat, and valuation
+
+- **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/Q3%202025/)** - Deep value forensic investing report for Q3 2025
+  - Premium athleisure brand with industry-leading margins
+  - Analysis includes variant perception and contrarian viewpoints
+  - Available in both English and Chinese (中文)
+
 - **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/Q3%202025/)** - Q3 2025 financial analysis and business model evaluation
+  - Comprehensive breakdown of AWS, e-commerce, and advertising segments
 
 Each company analysis includes:
 - Detailed earnings summaries and financial metrics
 - Business model breakdowns and competitive moat analysis
 - Revenue segment analysis and growth drivers
 - Profitability, efficiency, and valuation metrics
-- Visual charts for key financial indicators
-- Both English and Chinese language versions
+- Visual charts for key financial indicators (30+ metrics per company)
+- Forensic deep value investment framework
+- Bilingual content (English and Chinese where available)
 
 ### Market Research
 
@@ -55,12 +84,22 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 
 ## Key Features
 
-- Detailed fundamental analysis with 30+ financial metrics per company
-- Visual charts and data visualizations for key indicators
-- Bilingual content (English and Chinese)
-- Regular updates on earnings and market developments
-- Focus on contrarian, deep value investment approach
-- Educational content on value investing principles
+- **Comprehensive Analysis**: 30+ financial metrics per company covering profitability, growth, valuation, and risk
+- **Visual Data**: Professional charts and visualizations for all key financial indicators
+- **Bilingual Content**: Research available in both English and Chinese (中文)
+- **Contrarian Framework**: Deep value and forensic investing approach inspired by value investing legends
+- **Timely Updates**: Regular analysis of earnings reports and market developments
+- **Educational Resources**: Practical guides on balance sheet analysis, DCF valuation, and value investing principles
+- **Historical Archive**: Complete collection of Warren Buffett Partnership Letters (1956-1970)
+- **Open Source**: All research freely available under MIT License
+
+## Recent Highlights
+
+- **December 2025**: FOMC rate decision analysis and market outlook
+- **December 2025**: Lululemon (LULU) Q3 2025 forensic deep value report
+- **December 2025**: Buffett Indicator and Shiller PE market valuation analysis
+- **November 2025**: Nvidia (NVDA) Q3 2025 comprehensive earnings analysis with 33 metrics
+- **November 2025**: AI infrastructure market research featuring insights from Howard Marks and Michael Burry
 
 ## Analysis Methodology
 
@@ -72,6 +111,23 @@ Company analyses follow a rigorous framework covering:
 4. **Valuation**: Multiple methodologies including P/E, P/B, DCF, and relative valuation
 5. **Risk Assessment**: Key risks, dependencies, and potential challenges
 6. **Growth Analysis**: Historical trends and future growth drivers
+
+## How to Use This Repository
+
+**For Value Investors:**
+- Start with [Business Research](#business-research) to explore detailed company analyses
+- Review [Market Research](#market-research) for macro context and market conditions
+- Study [Warren Buffett Archive](#warren-buffett-archive) to learn from the master investor's early years
+
+**For Students & Educators:**
+- Begin with [Value Investing Principles](#value-investing-principles) for foundational concepts
+- Use company analyses as case studies for financial statement analysis
+- Examine real-world applications of DCF, margin of safety, and moat analysis
+
+**For Researchers:**
+- Access raw data files (CSV) and visual charts in company directories
+- Compare financial metrics across different companies and time periods
+- Build upon the open-source framework for your own analysis
 
 ## Contributing
 
