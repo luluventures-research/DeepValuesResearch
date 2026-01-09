@@ -173,7 +173,7 @@ This repository is maintained by the LuLu Contrarian Deep Value Research Foundat
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2026 LULU
+Copyright (c) 2026 LULU Ventures LLC
 
 ## Acknowledgments
 
