@@ -1,6 +1,6 @@
-# Deep Value Research Repository
+# Deep Value Research
 
-An open-source collection of contrarian deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
+An open-source collection of deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue)
