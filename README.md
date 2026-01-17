@@ -57,19 +57,38 @@ Each company analysis typically includes:
 
 ### Guru Research
 
-Analysis of strategies, portfolios, and memos from legendary investors:
+Analysis of strategies, portfolios, and philosophies of legendary investors and thinkers:
 
-- **Soros**: 13F Memo (Q3 2025).
-- **Stanley Druckenmiller**: Analysis of Duquesne Capital's Q3 2025 Strategic Pivot to Healthcare.
+- **Charlie Munger**:
+  - [Munger's Almanack](Guru%20Research/Charlie%20Munger/Munger's%20Almanack.md)
+  - [A Modern Philosopher of Practical Wisdom](Guru%20Research/Charlie%20Munger/Charlie%20Munger_%20A%20Modern%20Philosopher%20of%20Practical%20Wisdom.md)
+  - [The Buffett-Munger Framework](Guru%20Research/Charlie%20Munger/An%20Analysis%20of%20the%20Buffett-Munger%20Framework.md)
+  - [Inversion Problem-Solving Method](Guru%20Research/Charlie%20Munger/Munger's%20Inversion%20Problem-Solving%20Method.md)
+  - [Critique of Index Funds](Guru%20Research/Charlie%20Munger/Munger's%20Critique%20of%20Index%20Funds.md)
+  - [Views on Donald Trump](Guru%20Research/Charlie%20Munger/Charlie%20Munger's%20Evolving%20Views%20on%20Donald%20Trump%20-%20The%20Rationalist%20and%20the%20Disrupter.md)
+- **Benjamin Graham**:
+  - [Graham vs. Munger Investing Philosophies](Guru%20Research/Benjamin%20Graham/Graham%20vs.%20Munger%20Investing%20Philosophies.md)
+- **Soros**:
+  - [13F Memo (Q3 2025)](Guru%20Research/Soros/Soros%2013F%20Memo%20(Q3%202025).md)
+- **Stanley Druckenmiller**:
+  - [Duquesne Capital's Q3 2025 Strategic Pivot to Healthcare](Guru%20Research/Stanley%20Druckenmiller/%5B13F%5D%20An%20Analysis%20of%20Duquesne%20Capital's%20Q3%202025%20Strategic%20Pivot%20to%20Healthcare.md)
 - **Ted Weschler**: 
-  - Buffett Protégé Ted Weschler's $70k to $269M Journey.
-  - Berkshire Hathaway Investment Management analysis.
+  - [Buffett Protégé: $70k to $269M Journey](Guru%20Research/Ted%20Weschler/%5BRoth%5D%20Buffett%20Protégé%20Ted%20Weschler's%20$70k%20to%20$269M.md)
+  - [Berkshire Hathaway Investment Management](Guru%20Research/Ted%20Weschler/Ted%20Weschler_%20Berkshire%20Hathaway%20Investment%20Manage....md)
+- **Annie Duke**:
+  - [Decision Philosophy Analysis](Guru%20Research/Annie%20Duke/Annie%20Duke_%20Decision%20Philosophy%20Analysis.md)
+- **Geoffrey Hinton**:
+  - [2025 AI Landscape for Business Leaders](Guru%20Research/Geoffrey%20Hinton/Geoffrey%20Hinton's%202025%20AI%20Landscape%20for%20Business%20Leaders.md)
+- **Warren Buffett**:
+  - [The Buffett Philanthropy](Guru%20Research/Warren%20Buffett/The%20Buffett%20Philanthropy_%20A%20Legacy%20of%20Active%20Giving%20by%20His%20Children.md)
 
 ### Market Research
 
 Timely analysis of macro trends, market conditions, and economic developments:
 
-- **Jan 2026**: [Weekly Memorandum](Market%20Research/Weekly%20Memorandum%20(Dec-13-2026).md) (Note: Future dated items may represent projections or specific research scenarios)
+- **Jan 2026**:
+  - [Weekly Bubble Watch 2026-01: Navigating Financial Repression](Market%20Research/%5BWeekly%20Bubble%20Watch%202026-01%5D%20Navigating%20the%20Era%20of%20Financial%20Repression%20(2026-2056).md)
+  - [Weekly Memorandum (Dec 13, 2026)](Market%20Research/Weekly%20Memorandum%20(Dec-13-2026).md)
 - **Dec 2025**:
   - [FOMC Rate Decision and Outlook](Market%20Research/FOMC%20Rate%20Decision%20and%20Outlook%20(2025-12-10).md)
   - [Howard Marks on AI Bubble](Market%20Research/Howard%20Marks%20on%20AI%20Bubble%20(2025-12-09).md)
@@ -84,7 +103,7 @@ Timely analysis of macro trends, market conditions, and economic developments:
 
 ### Value Investing Principles
 
-Educational resources and theses on fundamental investing concepts, categorized for easy navigation:
+Educational resources and theses on fundamental investing concepts:
 
 **Financial Statement Analysis:**
 - [Understanding the Balance Sheet](Value%20Investing%20Principles/%5BBalance%20Sheet%5D%20Understanding%20the%20Balance%20Sheet%20-%20Assets,%20Liabilities,%20and%20Equity.md)
@@ -109,6 +128,8 @@ Educational resources and theses on fundamental investing concepts, categorized 
 - [Economic Goodwill](Value%20Investing%20Principles/%5BGoodwill%5D%20An%20Investment%20Thesis%20on%20Acquiring%20Companies%20with%20High%20Economic%20Goodwill.md)
 - [Options Trading (Landlord Analogy)](Value%20Investing%20Principles/%5BOptions%5D%20What%20a%20Landlord,%20an%20Ice%20Cube,%20and%20a%20Steamroller%20Can%20Teach%20You%20About%20Options%20Trading.md)
 - [Distressed Debt: AMZN Case Study](Value%20Investing%20Principles/%5BBond%5D%20Berkshire%20Hathaway's%20Distressed%20Debt%20Investment%20in%20Amazon%20(2001-2002).md)
+- [The Strategic Imperative of Selling](Value%20Investing%20Principles/%5BSelling%5D%20An%20Investment%20Thesis%20on%20the%20Strategic%20Imperative%20of%20Selling.md)
+- [When does Buffett Sell?](Value%20Investing%20Principles/%5BSelling%5D%20When%20does%20Buffett%20Sell?.md)
 
 **Risk, Philosophy & Strategy:**
 - [Buffett-Munger Framework](Value%20Investing%20Principles/Investment%20Philosophy%20Memo_%20An%20Analysis%20of%20the%20Buffett-Munger%20Framework.md)
@@ -117,7 +138,6 @@ Educational resources and theses on fundamental investing concepts, categorized 
 - [Identifying Durable Competitive Advantages (Moat)](Value%20Investing%20Principles/%5BMoat%5D%20Identifying%20Durable%20Competitive%20Advantages%20for%20Long-Term%20Growth.md)
 - [The Internal Scorecard](Value%20Investing%20Principles/The%20Internal%20Scorecard_%20A%20Philosophy%20for%20Long-Term%20Value%20Investing.md)
 - [Understanding Berkshire Hathaway](Value%20Investing%20Principles/Understanding%20Berkshire%20Hathaway_%20More%20Than%20a%20Fund,%20It's%20a%20Money%20Machine.md)
-- [When does Buffett Sell?](Value%20Investing%20Principles/When%20does%20Buffett%20Sell?.md)
 - [Case Study: Meta & Manus AI](Value%20Investing%20Principles/%5BInvestment%20Analysis%5D%20Meta's%20Strategic%20Acquisition%20of%20Manus%20AI.md)
 - [Case Study: CMG Balance Sheet](Value%20Investing%20Principles/%5BBalance%20Sheet%5D%20An%20Investment%20Thesis%20on%20Chipotle%20Mexican%20Grill%20(CMG)%20Through%20the%20Lens%20of%20Warren%20Buffett's%20Balance%20Sheet%20Principles.md)
 
@@ -135,7 +155,7 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 - **Visual Data**: Professional charts and visualizations for all key financial indicators
 - **Bilingual Content**: Research available in both English and Chinese (中文) for select reports
 - **Contrarian Framework**: Deep value and forensic investing approach
-- **Guru Insights**: Research on the strategies of Soros, Druckenmiller, Weschler, and others
+- **Guru Insights**: Research on the strategies of Munger, Soros, Druckenmiller, Weschler, and others
 - **Educational Resources**: Practical guides on balance sheet analysis, DCF valuation, and value investing principles
 - **Historical Archive**: Complete collection of Warren Buffett Partnership Letters (1956-1970)
 
@@ -143,12 +163,11 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 
 - **January 2026**:
   - TSLA, JRVR, and BIDU Deep Value Analyses
-  - Weekly Memorandum
+  - Weekly Bubble Watch & Munger's Almanack
 - **December 2025**:
   - FOMC rate decision analysis
   - Lululemon (LULU) Q3 2025 forensic deep value report
   - Buffett Indicator and Shiller PE market valuation analysis
-  - New Value Investing Principles theses (Moat, Beta, Dividends)
 
 ## Analysis Methodology
 
