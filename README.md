@@ -40,9 +40,11 @@ In-depth financial analysis and fundamental research on individual companies, in
 - **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Intrinsic Value Analysis (Dec 2025).
 - **[DOCU (Docusign)](Business%20Research/DOCU%20(Docusign)/)** - Q3 2025 research.
 - **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI Revolution in Digital Advertising and Monetization Paradigm.
+- **[INTC (Intel)](Business%20Research/INTC%20(Intel)/)** - Deep Dive Financial Research Report (Jan 2026) & Long-Term Performance Analysis.
 - **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-Style Valuation Analysis.
 - **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's Intrinsic Value Analysis (Jan 2026).
 - **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Deep value forensic investing report for Q3 2025 (English & Chinese).
+- **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 Financial Research Report & Buffett/Growth Framework Analysis (Jan 2026).
 - **[NKE (Nike)](Business%20Research/NKE%20(Nike)/)** - Deep Value Report Q3 2025.
 - **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Comprehensive Q3 2025 earnings analysis with 33+ financial metrics.
 - **[PYPL (PayPal)](Business%20Research/PYPL%20(PayPal)/)** - Buffett-Style Deep Value Analysis.
@@ -68,6 +70,8 @@ Analysis of strategies, portfolios, and philosophies of legendary investors and 
   - [Views on Donald Trump](Guru%20Research/Charlie%20Munger/Charlie%20Munger's%20Evolving%20Views%20on%20Donald%20Trump%20-%20The%20Rationalist%20and%20the%20Disrupter.md)
 - **Benjamin Graham**:
   - [Graham vs. Munger Investing Philosophies](Guru%20Research/Benjamin%20Graham/Graham%20vs.%20Munger%20Investing%20Philosophies.md)
+- **Guy Spier**:
+  - [Portfolio & Philosophy (Q4 2025)](Guru%20Research/Guy%20Spier/%5B13F%202025%20Q4%5D%20Guy%20Spier's%20Portfolio%20&%20Philosophy.md)
 - **Soros**:
   - [13F Memo (Q3 2025)](Guru%20Research/Soros/Soros%2013F%20Memo%20(Q3%202025).md)
 - **Stanley Druckenmiller**:
@@ -75,6 +79,8 @@ Analysis of strategies, portfolios, and philosophies of legendary investors and 
 - **Ted Weschler**: 
   - [Buffett Protégé: $70k to $269M Journey](Guru%20Research/Ted%20Weschler/%5BRoth%5D%20Buffett%20Protégé%20Ted%20Weschler's%20$70k%20to%20$269M.md)
   - [Berkshire Hathaway Investment Management](Guru%20Research/Ted%20Weschler/Ted%20Weschler_%20Berkshire%20Hathaway%20Investment%20Manage....md)
+- **Thomas Murphy**:
+  - [Tom Murphy: Business Life and Buffett's Admiration](Guru%20Research/Thomas%20Murphy/Tom%20Murphy_%20Business%20Life%20and%20Buffett's%20Admiration.md)
 - **Annie Duke**:
   - [Decision Philosophy Analysis](Guru%20Research/Annie%20Duke/Annie%20Duke_%20Decision%20Philosophy%20Analysis.md)
 - **Geoffrey Hinton**:
@@ -89,6 +95,7 @@ Timely analysis of macro trends, market conditions, and economic developments:
 - **Jan 2026**:
   - [Weekly Bubble Watch 2026-01: Navigating Financial Repression](Market%20Research/%5BWeekly%20Bubble%20Watch%202026-01%5D%20Navigating%20the%20Era%20of%20Financial%20Repression%20(2026-2056).md)
   - [Weekly Memorandum (Dec 13, 2026)](Market%20Research/Weekly%20Memorandum%20(Dec-13-2026).md)
+  - [Bridgewater & Oaktree: Post-Mortem of Failed China Investment Theses (2020-2026)](Market%20Research/Bridgewater%20and%20Oaktree's%20POST-MORTEM%20ANALYSIS%20OF%20FAILED%20CHINA%20INVESTMENT%20THESES%20(2020-2026).md)
 - **Dec 2025**:
   - [FOMC Rate Decision and Outlook](Market%20Research/FOMC%20Rate%20Decision%20and%20Outlook%20(2025-12-10).md)
   - [Howard Marks on AI Bubble](Market%20Research/Howard%20Marks%20on%20AI%20Bubble%20(2025-12-09).md)
@@ -155,15 +162,16 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 - **Visual Data**: Professional charts and visualizations for all key financial indicators
 - **Bilingual Content**: Research available in both English and Chinese (中文) for select reports
 - **Contrarian Framework**: Deep value and forensic investing approach
-- **Guru Insights**: Research on the strategies of Munger, Soros, Druckenmiller, Weschler, and others
+- **Guru Insights**: Research on the strategies of Munger, Soros, Druckenmiller, Weschler, Spier, Murphy and others
 - **Educational Resources**: Practical guides on balance sheet analysis, DCF valuation, and value investing principles
 - **Historical Archive**: Complete collection of Warren Buffett Partnership Letters (1956-1970)
 
 ## Recent Highlights
 
 - **January 2026**:
-  - TSLA, JRVR, and BIDU Deep Value Analyses
-  - Weekly Bubble Watch & Munger's Almanack
+  - TSLA, JRVR, BIDU, NFLX, and INTC Deep Value Analyses
+  - Weekly Bubble Watch & Bridgewater China Post-Mortem
+  - Guy Spier's Portfolio Analysis & Tom Murphy Profile
 - **December 2025**:
   - FOMC rate decision analysis
   - Lululemon (LULU) Q3 2025 forensic deep value report
