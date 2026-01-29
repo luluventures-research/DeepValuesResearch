@@ -1,4 +1,4 @@
-# Deep Value Research Repository
+# Deep Value Research
 
 An open-source collection of contrarian deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
 
