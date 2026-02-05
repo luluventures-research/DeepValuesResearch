@@ -3,7 +3,7 @@
 An open-source collection of contrarian deep value investment research, focusing on fundamental analysis, market insights, and timeless value investing principles.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-blue)
 
 ## Table of Contents
 
@@ -34,26 +34,27 @@ This repository serves as a comprehensive resource for investors interested in d
 
 In-depth financial analysis and fundamental research on individual companies, including earnings reports, intrinsic value analysis, and deep dives:
 
-- **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Q4 2025 Financial Research, Deep Value Intelligence, and Intrinsic Value Analysis.
+- **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Q4 2025 financial research and deep value intelligence; Q3 2025 intrinsic value analysis.
+- **[AMD (AMD)](Business%20Research/AMD%20(AMD)/)** - Q4 2025 deep value intelligence (Feb 2026).
 - **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/)** - Q3 2025 analysis, including AWS and ad segment breakdowns.
-- **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial Research Request (Jan 2026).
-- **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-Style Intrinsic Value Analysis (Jan 2026).
-- **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Intrinsic Value Analysis (Dec 2025).
-- **[DOCU (Docusign)](Business%20Research/DOCU%20(Docusign)/)** - Q3 2025 research.
-- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI Revolution in Digital Advertising and Monetization Paradigm.
-- **[INTC (Intel)](Business%20Research/INTC%20(Intel)/)** - Deep Dive Financial Research Report (Jan 2026) & Long-Term Performance Analysis.
-- **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-Style Valuation Analysis.
-- **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's Intrinsic Value Analysis (Jan 2026).
-- **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Deep value forensic investing report for Q3 2025 (English & Chinese).
-- **[MA (MasterCard)](Business%20Research/MA%20(MasterCard)/)** - Q4 2025 Financial Research & Deep Value Intelligence (Jan 2026).
-- **[META (Meta)](Business%20Research/META%20(META)/)** - Financial Research Request (Jan 28, 2026).
-- **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal Analysis, Future Outlook, and Financial Research Report (Jan 28, 2026).
-- **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 Financial Research Report & Buffett/Growth Framework Analysis (Jan 2026).
-- **[NKE (Nike)](Business%20Research/NKE%20(Nike)/)** - Deep Value Report Q3 2025.
-- **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Comprehensive Q3 2025 earnings analysis with 33+ financial metrics.
-- **[PYPL (PayPal)](Business%20Research/PYPL%20(PayPal)/)** - Buffett-Style Deep Value Analysis.
-- **[TSLA (Tesla)](Business%20Research/TSLA%20(Tesla)/)** - Q4 2025 Deep Financial Research, Analysis, and Deep Dive (Jan 2026).
-- **[UNH (United HealthCare)](Business%20Research/UNH%20(United%20HealthCare)/)** - Strategic Post-Mortem of "Great Reset" & Q4 2025 Deep Value Analysis.
+- **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial research request (Jan 2026).
+- **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-style intrinsic value analysis (Jan 2026).
+- **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Q3 2025 intrinsic value analysis and Q4 2025 deep value intelligence (Feb 2026).
+- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI revolution in digital advertising and monetization paradigm.
+- **[INTC (Intel)](Business%20Research/INTC%20(Intel)/)** - Deep dive financial research report and long-term performance analysis (Jan 2026).
+- **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-style valuation analysis (Q3 2025).
+- **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's intrinsic value analysis (Jan 2026).
+- **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Q3 2025 forensic deep value report (English & Chinese).
+- **[MA (MasterCard)](Business%20Research/MA%20(MasterCard)/)** - Q4 2025 financial research and deep value intelligence (Jan 2026).
+- **[META (Meta)](Business%20Research/META%20(META)/)** - Q4 2025 financial research request (Jan 2026).
+- **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal analysis, future outlook, and financial research report (Jan 2026).
+- **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 financial research report and Buffett/growth framework analysis (Jan 2026).
+- **[NKE (Nike)](Business%20Research/NKE%20(Nike)/)** - Deep value report (Q3 2025).
+- **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Q3 2025 earnings analyses.
+- **[PLTR (Palantir)](Business%20Research/PLTR%20(Palantir)/)** - Q4 2025 financial research and deep value intelligence (Feb 2026).
+- **[PYPL (PayPal)](Business%20Research/PYPL%20(PayPal)/)** - Q3 2025 Buffett-style deep value analysis and Q4 2025 deep value intelligence (Feb 2026).
+- **[TSLA (Tesla)](Business%20Research/TSLA%20(Tesla)/)** - Q4 2025 financial deep dive and Q3 2025 research.
+- **[UNH (United HealthCare)](Business%20Research/UNH%20(United%20HealthCare)/)** - Q4 2025 deep value analysis and 2025 "Great Reset" post-mortem.
 
 Each company analysis typically includes:
 - Detailed earnings summaries and financial metrics
@@ -68,6 +69,10 @@ Analysis of strategies, portfolios, and philosophies of legendary investors and 
 
 - **Ashwath Damodaran**:
   - [AI Market Dynamics: Valuation, Delusion, and Investment Strategy](Guru%20Research/Ashwath%20Damodaran/%5BAshwath%20Damodaran%5D%20AI%20Market%20Dynamics_%20An%20Analysis%20of%20Valuation,%20Delusion,%20and%20Investment%20Strategy.md)
+- **Kevin Warsh**:
+  - [The Architect of Institutional Influence](Guru%20Research/Kevin%20Warsh/The%20Architect%20of%20Institutional%20Influence_%20An%20Executive%20Profile%20of%20Kevin%20Warsh.md)
+  - [Navigating the Economic Cockpit](Guru%20Research/Kevin%20Warsh/Navigating%20the%20Economic%20Cockpit%20A%20Beginner%E2%80%99s%20Guide%20to%20the%20Federal%20Reserve%20Chair.md)
+  - [The Warsh-Led Federal Reserve and the New Monetary Paradigm](Guru%20Research/Kevin%20Warsh/The%20Warsh-Led%20Federal%20Reserve%20and%20the%20New%20Monetary%20Paradigm.md)
 - **Charlie Munger**:
   - [The Munger Model: Early-Stage Wealth Accumulation](Guru%20Research/Charlie%20Munger/The%20Munger%20Model_%20An%20Investment%20Thesis%20on%20Early-Stage%20Wealth%20Accumulation.md)
   - [Munger's Almanack](Guru%20Research/Charlie%20Munger/Munger's%20Almanack.md)
@@ -89,6 +94,8 @@ Analysis of strategies, portfolios, and philosophies of legendary investors and 
   - [Berkshire Hathaway Investment Management](Guru%20Research/Ted%20Weschler/Ted%20Weschler_%20Berkshire%20Hathaway%20Investment%20Manage....md)
 - **Thomas Murphy**:
   - [Tom Murphy: Business Life and Buffett's Admiration](Guru%20Research/Thomas%20Murphy/Tom%20Murphy_%20Business%20Life%20and%20Buffett's%20Admiration.md)
+- **Walter J. Schloss**:
+  - [Disciplined Value Investing](Guru%20Research/Walter%20J.%20Schloss/The%20Investment%20Philosophy%20of%20Walter%20J.%20Schloss_%20A%20Commitment%20to%20Disciplined%20Value.md)
 - **Annie Duke**:
   - [Decision Philosophy Analysis](Guru%20Research/Annie%20Duke/Annie%20Duke_%20Decision%20Philosophy%20Analysis.md)
 - **Geoffrey Hinton**:
@@ -177,6 +184,8 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 
 ## Recent Highlights
 
+- **February 2026**:
+  - New Research: PLTR, AMD, PYPL, DIS (Q4 updates)
 - **January 2026**:
   - New Research: MA (MasterCard), AAPL (Q4 Update), UNH, MSFT, META, APP
   - Deep Value Analyses: TSLA (Q4 Update), NFLX, INTC, JRVR, BIDU
