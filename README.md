@@ -36,25 +36,32 @@ In-depth financial analysis and fundamental research on individual companies, in
 
 - **[AAPL (Apple)](Business%20Research/AAPL%20(Apple)/)** - Q4 2025 financial research and deep value intelligence; Q3 2025 intrinsic value analysis.
 - **[AMD (AMD)](Business%20Research/AMD%20(AMD)/)** - Q4 2025 deep value intelligence (Feb 2026).
-- **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/)** - Q3 2025 analysis, including AWS and ad segment breakdowns.
-- **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial research request (Jan 2026).
+- **[AMZN (Amazon)](Business%20Research/AMZN%20(Amazon)/)** - Q3 2025 analysis, including AWS and ad segment breakdowns, plus a Feb 2026 deep value intelligence package.
+- **[APP (AppLovin)](Business%20Research/APP%20(AppLovin)/)** - Financial research request (Jan 2026) and a Feb 2026 deep value intelligence package.
 - **[BIDU (Baidu)](Business%20Research/BIDU%20(Baidu)/)** - Buffett-style intrinsic value analysis (Jan 2026).
+- **[CHAR (Chariot)](Business%20Research/CHAR%20(Chariot)/)** - Deep value intelligence package (Feb 2026).
+- **[COIN (Coinbase)](Business%20Research/COIN%20(Coinbase)/)** - Deep value intelligence packages (Feb 7 and Feb 12, 2026).
 - **[DIS (Disney)](Business%20Research/DIS%20(Disney)/)** - Q3 2025 intrinsic value analysis and Q4 2025 deep value intelligence (Feb 2026).
-- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI revolution in digital advertising and monetization paradigm; Q4 2025 financial research request, deep value analysis, and deep value intelligence (Feb 2026).
+- **[GOOGL (Alphabet)](Business%20Research/GOOGL%20(Alphabet)/)** - AI revolution in digital advertising and monetization paradigm; Q4 2025 financial research request, deep value analysis, and multiple deep value intelligence packages (Feb 2026).
+- **[HOOD (Robinhood)](Business%20Research/HOOD%20(Robinhood)/)** - Deep value intelligence packages (Feb 2026).
 - **[INTC (Intel)](Business%20Research/INTC%20(Intel)/)** - Deep dive financial research report and long-term performance analysis (Jan 2026).
 - **[INTU (Intuit)](Business%20Research/INTU%20(Intuit)/)** - Buffett-style valuation analysis (Q3 2025).
 - **[JRVR (James River Group)](Business%20Research/JRVR%20(James%20River%20Group)/)** - Buffett's intrinsic value analysis (Jan 2026).
 - **[LULU (Lululemon)](Business%20Research/LULU%20(Lululemon)/)** - Q3 2025 forensic deep value report (English & Chinese).
 - **[MA (MasterCard)](Business%20Research/MA%20(MasterCard)/)** - Q4 2025 financial research and deep value intelligence (Jan 2026).
 - **[META (Meta)](Business%20Research/META%20(META)/)** - Q4 2025 financial research request (Jan 2026).
-- **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal analysis, future outlook, and financial research report (Jan 2026).
+- **[MSFT (Microsoft)](Business%20Research/MSFT%20(Microsoft)/)** - Decadal analysis, future outlook, financial research report (Jan 2026), and a Feb 2026 deep value intelligence package.
 - **[NFLX (Netflix)](Business%20Research/NFLX%20(Netflix)/)** - Q4 2025 financial research report and Buffett/growth framework analysis (Jan 2026).
 - **[NKE (Nike)](Business%20Research/NKE%20(Nike)/)** - Deep value report (Q3 2025).
-- **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Q3 2025 earnings analyses.
+- **[NVDA (Nvidia)](Business%20Research/NVDA%20(Nvidia)/)** - Q3 2025 earnings analyses and Feb 2026 deep value intelligence packages.
 - **[PLTR (Palantir)](Business%20Research/PLTR%20(Palantir)/)** - Q4 2025 financial research and deep value intelligence (Feb 2026).
 - **[PYPL (PayPal)](Business%20Research/PYPL%20(PayPal)/)** - Q3 2025 Buffett-style deep value analysis and Q4 2025 deep value intelligence (Feb 2026).
+- **[QQQ (Invesco QQQ Trust)](Business%20Research/QQQ%20(Invesco%20QQQ%20Trust)/)** - Deep value intelligence package (Feb 2026).
+- **[RBLX (Roblox)](Business%20Research/RBLX%20(Roblox)/)** - Deep value intelligence package (Feb 2026).
+- **[SPY (SPDR S&P 500 ETF Trust)](Business%20Research/SPY%20(SPDR%20S%26P%20500%20ETF%20Trust)/)** - Deep value intelligence package (Feb 2026).
 - **[TSLA (Tesla)](Business%20Research/TSLA%20(Tesla)/)** - Q4 2025 financial deep dive and Q3 2025 research.
 - **[UNH (United HealthCare)](Business%20Research/UNH%20(United%20HealthCare)/)** - Q4 2025 deep value analysis and 2025 "Great Reset" post-mortem.
+- **[VOO (Vanguard S&P 500 ETF)](Business%20Research/VOO%20(Vanguard%20S%26P%20500%20ETF)/)** - Deep value intelligence package (Feb 2026).
 
 Each company analysis typically includes:
 - Detailed earnings summaries and financial metrics
@@ -62,6 +69,7 @@ Each company analysis typically includes:
 - Valuation methodologies (DCF, Owner Earnings, etc.)
 - Visual charts for key financial indicators
 - Bilingual content (English and Chinese where available)
+- Date-partitioned research bundles (for example, `YYYY-MM-DD/reports`) for recurring intelligence runs
 
 ### Guru Research
 
@@ -186,6 +194,8 @@ Collection of Warren Buffett's Partnership Letters (1956-1970):
 
 - **February 2026**:
   - New Research: GOOGL, PLTR, AMD, PYPL, DIS (Q4 updates)
+  - Added research bundles: AMZN, APP, COIN, MSFT, NVDA, CHAR, HOOD, QQQ, RBLX, SPY, VOO (Feb 7-12, 2026)
+  - Repository cleanup: operational `.log` files and thumbnail image assets were excluded from imported 2026 bundles
 - **January 2026**:
   - New Research: MA (MasterCard), AAPL (Q4 Update), UNH, MSFT, META, APP
   - Deep Value Analyses: TSLA (Q4 Update), NFLX, INTC, JRVR, BIDU
